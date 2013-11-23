@@ -1,0 +1,79 @@
+Running: boyer.pl for 30 iteration
+Running time (ms.): 78209
+
+Running: browse.pl for 30 iteration
+Running time (ms.): 37969
+
+Running: chat_parser.pl for 30 iteration
+Running time (ms.): 5845
+
+Running: crypt.pl for 30 iteration
+Running time (ms.): 111
+
+Running: deriv.pl for 30 iteration
+Running time (ms.): 10
+
+Running: dynamic_unit_clause.pl for 30 iteration
+Running time (ms.): 715
+
+Running: fast_mu.pl for 30 iteration
+Running time (ms.): 57
+
+Running: flatten.pl for 30 iteration
+[error must occured executing this]
+Running time (ms.): 1385187700569
+
+Running: itak.pl for 30 iteration
+Running time (ms.): 14929
+
+Running: meta_qsort.pl for 30 iteration
+Running time (ms.): 514
+
+Running: mu.pl for 30 iteration
+Running time (ms.): 25
+
+Running: nreverse_builtin.pl for 30 iteration
+Running time (ms.): 19
+
+Running: nreverse.pl for 30 iteration
+Running time (ms.): 20
+
+Running: poly.pl for 30 iteration
+Running time (ms.): 4566
+
+Running: primes.pl for 30 iteration
+Running time (ms.): 45
+
+Running: prover.pl for 30 iteration
+Running time (ms.): 54
+
+Running: qsort.pl for 30 iteration
+Running time (ms.): 23
+
+Running: queens.pl for 30 iteration
+Running time (ms.): 45
+
+Running: query.pl for 30 iteration
+Running time (ms.): 34
+
+Running: reducer.pl for 30 iteration
+[error must occured executing this]
+Running time (ms.): 1385187720941
+
+Running: sendmore.pl for 30 iteration
+Running time (ms.): 1483
+
+Running: simple_analyzer.pl for 30 iteration
+[error must occured executing this]
+Running time (ms.): 1385187722456
+
+Running: tak.pl for 30 iteration
+Running time (ms.): 10919
+
+Running: unify.pl for 30 iteration
+[error must occured executing this]
+Running time (ms.): 1385187733395
+
+Running: zebra.pl for 30 iteration
+Running time (ms.): 908
+

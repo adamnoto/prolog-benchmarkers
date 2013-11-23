@@ -1,0 +1,85 @@
+Running: boyer.pl for 1 iteration
+Running time (ms.): 16173
+
+Running: browse.pl for 1 iteration
+Running time (ms.): 4152
+
+Running: chat_parser.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186848931
+
+Running: crypt.pl for 1 iteration
+Running time (ms.): 12
+
+Running: deriv.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186848952
+
+Running: dynamic_unit_clause.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186848954
+
+Running: fast_mu.pl for 1 iteration
+Running time (ms.): 6
+
+Running: flatten.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186848973
+
+Running: itak.pl for 1 iteration
+Running time (ms.): 779
+
+Running: meta_qsort.pl for 1 iteration
+Running time (ms.): 41
+
+Running: mu.pl for 1 iteration
+Running time (ms.): 2
+
+Running: nreverse_builtin.pl for 1 iteration
+Running time (ms.): 3
+
+Running: nreverse.pl for 1 iteration
+Running time (ms.): 2
+
+Running: poly.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186849821
+
+Running: primes.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186849825
+
+Running: prover.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186849827
+
+Running: qsort.pl for 1 iteration
+Running time (ms.): 3
+
+Running: queens.pl for 1 iteration
+Running time (ms.): 33
+
+Running: query.pl for 1 iteration
+Running time (ms.): 5
+
+Running: reducer.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186849891
+
+Running: sendmore.pl for 1 iteration
+Running time (ms.): 946
+
+Running: simple_analyzer.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186850849
+
+Running: tak.pl for 1 iteration
+Running time (ms.): 320
+
+Running: unify.pl for 1 iteration
+[error must occured executing this]
+Running time (ms.): 1385186851172
+
+Running: zebra.pl for 1 iteration
+Running time (ms.): 62
+
